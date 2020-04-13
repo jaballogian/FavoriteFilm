@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FavoriteFilm</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="change_language_settings">Change language</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="favorite_tv_shows">Favorite TV Shows</string>
+    <string name="my_favorite">My Favorite</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="added_to_favorite">Added to favorite</string>
+    <string name="delete_from_favorite">Delete from Favorite</string>
+    <string name="failed_to_delete_data">Failed to delete data</string>
+    <string name="failed_to_add_data">Failed to add data</string>
+    <string name="deleted_from_favorite">Deleted from favorite</string>
+    <string name="already_in_favorite">Already in favorite</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search hint</string>
+    <string name="appwidget_text">Film Banner</string>
+    <string name="empty_text">No film data</string>
+    <string name="touched">Touched view </string>
+    <string name="daily_reminder">Daily reminder, go to application</string>
+    <string name="release_today">Release today</string>
+    <string name="set_reminder">Set reminder</string>
+    <string name="set_release_today_reminder">Set release today reminder</string>
+    <string name="set_daily_reminder">Set daily reminder</string>
+</resources>
